@@ -1,0 +1,22 @@
+/* BASIC STYLES HERE */
+:root {
+  --black: #000501;
+  --cambridgeBlue: #73ab84;
+  --celadon: #99d19c;
+  --tiffanyBlue: #79c7c5;
+  --nonPhotoBlue: #ade1e5;
+}
+
+
+
+header {
+  background-color: #73ab84;
+}
+
+main {
+  background-color: #99d19c;
+}
+
+.questionTemplate {
+  background-color: #79c7c5;
+}
